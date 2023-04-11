@@ -1,0 +1,7 @@
+{
+  "name": "yarn-3-test",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "fastify": "^4.15.0"
+  }
+}
